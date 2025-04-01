@@ -51,6 +51,9 @@ public class Main{
         String[] words2 = line.split("\\s+");
         for (String w : words2) {
             System.out.print("[" + w + "]");
+            //hbubbhn
+            //gvgvbnk
+            //vcvybj
         }
     }
 }
