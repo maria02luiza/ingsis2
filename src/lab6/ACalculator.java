@@ -25,5 +25,6 @@ public abstract class ACalculator {
         System.out.println("5.4.2 b) "+result2);
 }
 
+
 }
 

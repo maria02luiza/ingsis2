@@ -26,4 +26,5 @@ public class NewIntCalculator extends ACalculator{
         state=0;
         return this;
     }
+
 }
