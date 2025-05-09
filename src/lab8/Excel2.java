@@ -29,7 +29,7 @@ public class Excel2 {
 
         XSSFCellStyle styleForHeader = workbook2.createCellStyle();
         styleForHeader.setFont(font);
-        styleForHeader.setFillForegroundColor(IndexedColors.DARK_BLUE.getIndex());
+        styleForHeader.setFillForegroundColor(IndexedColors.LIGHT_GREEN.getIndex());
         styleForHeader.setFillPattern(FillPatternType.SOLID_FOREGROUND);
 
         // 3. Stil pentru coloanele G și H (fundal galben)
