@@ -24,7 +24,7 @@ public class Excel2 {
         XSSFFont font = workbook2.createFont();
         font.setFontHeightInPoints((short) 12);
         font.setFontName("Arial");
-        font.setColor(IndexedColors.WHITE.getIndex());
+        font.setColor(IndexedColors.BLACK.getIndex());
         font.setBold(true);
 
         XSSFCellStyle styleForHeader = workbook2.createCellStyle();
